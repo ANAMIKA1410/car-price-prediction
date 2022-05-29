@@ -9,4 +9,4 @@ This data science project series walks through step by step process of how to bu
 4. Sklearn for model building
 5. Jupyter notebook, visual studio code as IDE
 6. Python flask for http server
-7. HTML/CSS/Javascript for UI
+7. HTML/CSS for UI
